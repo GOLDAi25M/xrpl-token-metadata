@@ -4,7 +4,8 @@ issuer = "rHTCgtrMj7YMcqM6U28pfnfD2AXuiywRv1"
 symbol = "GOLDAI"
 name = "Golden Age AI"
 desc = "A token on the XRPL blending the value of gold with the future of artificial intelligence."
-image = "https://gateway.pinata.cloud/ipfs/bafybeiaavufhlvsf55faj5kv5mos6vxq7wibe6nv6hpzwdw6nras5hgxue"
+image = "https://gateway.pinata.cloud/ipfs/bafybeiddn762mxsvcqkcpztysiwul2m3znzolnqkcck6fsdtuxi3yraati"
+
 
 [METADATA]
 token_type = "utility"
